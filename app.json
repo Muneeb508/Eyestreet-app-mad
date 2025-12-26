@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "Street Eye",
+    "slug": "street-eye",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#254A48"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.streeteye.app",
+      "infoPlist": {
+        "NSLocationWhenInUseUsageDescription": "Street Eye needs your location to report issues near you.",
+        "NSCameraUsageDescription": "Street Eye needs camera access to take photos of issues.",
+        "NSPhotoLibraryUsageDescription": "Street Eye needs photo library access to select images."
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#254A48"
+      },
+      "package": "com.streeteye.app",
+      "permissions": [
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_COARSE_LOCATION",
+        "CAMERA",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE"
+      ]
+    },
+    "web": {},
+    "extra": {
+      "eas": {
+        "projectId": "a9d2e566-095c-4f98-9bf5-68f213dffdc7"
+      }
+    }
+  }
+}
