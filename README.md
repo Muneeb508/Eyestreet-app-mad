@@ -6,7 +6,7 @@ Street Eye is a civic reporting mobile application that helps citizens report, t
 
 Built using React Native with Firebase as the backend for authentication, real-time data, and storage.
 
-# APK Download (Android)
+# APK Download 
 
 You can download and install the latest APK from Google Drive:
 
