@@ -10,7 +10,7 @@ Built using React Native with Firebase as the backend for authentication, real-t
 
 You can download and install the latest APK from Google Drive:
 
-Street Eye APK (Google Drive): https://drive.google.com/file/d/19Z0PTjNWZUoUu4k4xwJ_nIPeHsKR9uYW/view?usp=drive_link
+Street Eye APK (Google Drive): https://drive.google.com/file/d/19Z0PTjNWZUoUu4k4xwJ_nIPeHsKR9uYW/view?usp=sharing
 
 Note: If Android blocks installation, enable Install unknown apps for your browser or file manager in settings.
 
